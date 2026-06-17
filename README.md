@@ -70,7 +70,7 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/leepakrishna-crypto
-
+- LinkedIn: https://linkedin.com/in/leepa-sree-178108290
 ---
 
 ⭐ Always eager to learn new technologies and build innovative solutions.
