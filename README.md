@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Web Developer | Cloud Enthusiast | AI Explorer
 
-🎓 Studying at Vellore Institute of Technology (VIT)
+🎓 Studying M. Tech at Vellore Institute of Technology (VIT)
 
 🌱 Currently learning:
 - React.js
