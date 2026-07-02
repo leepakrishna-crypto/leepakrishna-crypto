@@ -49,6 +49,11 @@
 ### Personal Portfolio Website
 - Responsive portfolio website
 - Built using React.js
+###Trainer Attendance System Using Live Image Capture
+-Developed a web-based attendance system using live image capture for trainer verification.
+-Implemented real-time image capture and authentication to ensure accurate attendance records.
+-Designed secure login and attendance management modules with role-based access.
+-Improved attendance tracking by reducing manual intervention and proxy attendance.
 
 ---
 
